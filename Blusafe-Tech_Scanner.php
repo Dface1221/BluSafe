@@ -5,7 +5,7 @@
  *
  * Open Source Website Technology & Vulnerability Scanner
  *
- * Version : 1.2.0
+ * Version : 1.3.0
  * Author  : Aadil (Dface)
  * GitHub  : https://github.com/sudo-dface/Bluesafe
  * License : GPL-3.0
@@ -30,7 +30,7 @@ if (empty($_SESSION["csrf_token"])) {
 define("TECHSCANNER", true);
 /* ==========================================
  *   TechScanner
- *   Version 1.0
+ *   Version 1.3.0
  * ========================================== */
 $dataFile = __DIR__ . "/.techscanner-data.php";
 $scanFile = __DIR__ . "/.techscanner-scan.php";
@@ -443,7 +443,7 @@ if (!$isInstalled && $_SERVER["REQUEST_METHOD"] === "POST") {
             "backend_url" => $backendUrl,
             "license_key" => $licenseKey,
             "password_hash" => password_hash($adminPassword, PASSWORD_DEFAULT),
-            "scanner_version" => "1.0",
+            "scanner_version" => "1.3.0",
             "installed_at" => date("c"),
             "last_login" => null,
         ];
