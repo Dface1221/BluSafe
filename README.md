@@ -11,10 +11,7 @@ An open-source website technology and vulnerability scanner built to help develo
 - WordPress Theme vulnerability scanning
 - OSV vulnerability scanning
 - Latest version detection
-- Responsive interface
-- Dark mode
 - Secure authentication
-- CSRF protection
 - Session security
 - Offline technology cache
 - FastAPI backend support
@@ -101,17 +98,6 @@ OSV.dev
 - Secure cookies (HTTPS)
 - HTML escaping
 - Configuration isolation
-
----
-
-## Roadmap
-
-- Additional CMS support
-- Docker deployment
-- Scheduled scans
-- Email notifications
-- More ecosystems
-- Historical reporting
 
 ---
 
