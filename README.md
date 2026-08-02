@@ -1,7 +1,4 @@
-# BluSafe
-Open-source website technology and vulnerability scanner supporting WordPress and OSV ecosystems with secure client-side scanning and a FastAPI backend.
-
-# TechScanner
+# BluSface-TechScanner
 
 An open-source website technology and vulnerability scanner built to help developers, system administrators, and security researchers identify outdated software and known vulnerabilities.
 
