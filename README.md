@@ -46,7 +46,11 @@ An open-source website technology and vulnerability scanner built to help develo
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1918" height="1044" alt="image" src="https://github.com/user-attachments/assets/b5f036d2-cad3-490b-be73-1aaf1934f1b9" />
+<img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/d934af48-17ce-4ae9-b2f8-1a0249cc22e0" />
+<img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/3d8f1878-204f-4429-ad9e-655aa9df18a4" />
+<img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/9d75ba54-61bc-4396-bc28-5a378ba978b7" />
+
 
 ---
 
