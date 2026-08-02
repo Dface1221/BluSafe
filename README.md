@@ -1,4 +1,4 @@
-# BluSface-TechScanner
+# BluSafe-TechScanner
 
 An open-source website technology and vulnerability scanner built to help developers, system administrators, and security researchers identify outdated software and known vulnerabilities.
 
