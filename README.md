@@ -74,7 +74,7 @@ TechScanner (PHP)
 
 ↓
 
-FastAPI Backenhttps://www.youtube.com/watch?v=mfXDA6A9gVwd
+FastAPI Backend
 
 ↓
 
