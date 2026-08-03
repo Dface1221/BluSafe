@@ -54,6 +54,12 @@ An open-source website technology and vulnerability scanner built to help develo
 
 ---
 
+## Setup and Working video
+
+[![BluSafe TechScanner Demo]](https://www.youtube.com/watch?v=mfXDA6A9gVw)
+
+---
+
 ## Architecture
 
 Website
