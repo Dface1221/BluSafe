@@ -23,24 +23,28 @@ An open-source website technology and vulnerability scanner built to help develo
 
 ### WordPress
 
-- Core
-- Plugins
-- Themes
+| Category | Supported |
+|----------|-----------|
+| Core | ✅ |
+| Plugins | ✅ |
+| Themes | ✅ |
 
-### OSV
+### OSV Ecosystems
 
-- PyPI
-- npm
-- Go
-- Maven
-- Composer
-- crates.io
-- RubyGems
-- NuGet
-- Hex
-- Pub
-- SwiftPM
-- And many more supported by OSV.
+| Ecosystem | Example Package |
+|------------|-----------------|
+| PyPI (Python) | Django |
+| npm (Node.js) | express |
+| Go | github.com/gin-gonic/gin |
+| Maven (Java) | org.springframework:spring-core |
+| NuGet (.NET) | Newtonsoft.Json |
+| RubyGems | rails |
+| crates.io (Rust) | tokio |
+| Packagist (PHP Composer) | laravel/framework |
+| Hex (Elixir) | phoenix |
+| Pub (Flutter/Dart) | http |
+| SwiftPM | swift-nio |
+| Composer | symfony/http-foundation |
 
 ---
 
@@ -70,7 +74,7 @@ TechScanner (PHP)
 
 ↓
 
-FastAPI Backend
+FastAPI Backenhttps://www.youtube.com/watch?v=mfXDA6A9gVwd
 
 ↓
 
