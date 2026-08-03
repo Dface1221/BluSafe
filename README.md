@@ -102,6 +102,16 @@ OSV.dev
 
 ---
 
+## Backend
+
+This repository contains the standalone PHP client.
+
+The FastAPI backend is maintained separately and is not included in this repository.
+
+If you're interested in self-hosting the complete stack for learning, research, or contribution, feel free to contact me.
+
+---
+
 ## Security Features
 
 - Password hashing
