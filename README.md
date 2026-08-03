@@ -23,11 +23,11 @@ An open-source website technology and vulnerability scanner built to help develo
 
 ### WordPress
 
-| Category | Supported |
+| Category | Ecosystem |
 |----------|-----------|
-| Core | ✅ |
-| Plugins | ✅ |
-| Themes | ✅ |
+| Core | Wordpress |
+| Plugins | Wordpress Plugin |
+| Themes | Wordpress Theme |
 
 ### OSV Ecosystems
 
